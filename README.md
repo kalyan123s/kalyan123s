@@ -1,3 +1,4 @@
+![logo](https://github.com/kalyan123s/kalyan123s/blob/main/background_banner.png)
 <h1 align="center">Hi 👋, I'm Kalyan Sharma</h1>
 <h3 align="center">A passionate Web enthusiast</h3>
 
