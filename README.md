@@ -32,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyan123s&show_icons=true&locale=en" alt="kalyan123s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan123s&" alt="kalyan123s" /></p>
-
+[![kalyan123s's GitHub | Stats](https://stats.quine.sh/kalyan123s/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalyan123s)
